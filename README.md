@@ -1,2 +1,1 @@
-# Exodus-Injection
-Simple ASAR Injection for Exodus Stealing / Malware
+## made private for now.
